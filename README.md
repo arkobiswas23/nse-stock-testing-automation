@@ -296,7 +296,7 @@ For issues or questions:
 ```bash
 git add .
 git commit -m "Initial NSE stock testing automation project"
-git remote add origin <your-repository-url>
+git remote add origin "https://github.com/arkobiswas23/nse-stock-testing-automation.git"
 git push -u origin main
 ```
 
