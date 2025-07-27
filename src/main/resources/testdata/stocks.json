@@ -1,0 +1,29 @@
+{
+  "nifty50Stocks": [
+    {
+      "symbol": "TATAMOTORS",
+      "name": "Tata Motors Limited",
+      "expectedFields": ["currentPrice", "change", "percentChange", "52WeekHigh", "52WeekLow"]
+    },
+    {
+      "symbol": "RELIANCE",
+      "name": "Reliance Industries Limited",
+      "expectedFields": ["currentPrice", "change", "percentChange", "52WeekHigh", "52WeekLow"]
+    },
+    {
+      "symbol": "INFY",
+      "name": "Infosys Limited",
+      "expectedFields": ["currentPrice", "change", "percentChange", "52WeekHigh", "52WeekLow"]
+    },
+    {
+      "symbol": "HDFCBANK",
+      "name": "HDFC Bank Limited",
+      "expectedFields": ["currentPrice", "change", "percentChange", "52WeekHigh", "52WeekLow"]
+    },
+    {
+      "symbol": "ICICIBANK",
+      "name": "ICICI Bank Limited",
+      "expectedFields": ["currentPrice", "change", "percentChange", "52WeekHigh", "52WeekLow"]
+    }
+  ]
+}
